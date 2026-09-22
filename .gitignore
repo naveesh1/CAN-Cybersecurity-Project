@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python test/cache
+.pytest_cache/
+.coverage
+
+# Temporary files
+*.tmp
+*.log
+
+# KiCad temporary/generated files
+*.kicad_prl
+fp-info-cache
+*.rpt
+*.gbrjob
+
+# Backup/generated data
+*_backup.csv
+
+# KiCad backups
+CAN-Cybersecurity-Hardware/CAN-Cybersecurity-Hardware-backups/

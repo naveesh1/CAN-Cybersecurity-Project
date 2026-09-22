@@ -1,0 +1,22 @@
+REAL-TIME CAN SECURITY ALERT LOG
+=================================
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID, High-frequency CAN traffic
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID, High-frequency CAN traffic
+[2026-09-17 09:15:39] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID, High-frequency CAN traffic
+[2026-09-17 09:15:40] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID, High-frequency CAN traffic
+[2026-09-17 09:15:40] ANOMALY | CAN ID: 0x555 | Data: [255, 255, 255, 255, 255, 255, 255, 255] | Reason: Unknown CAN ID, Known simulated attack ID, High-frequency CAN traffic

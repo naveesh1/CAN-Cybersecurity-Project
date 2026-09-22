@@ -1,0 +1,10 @@
+CAN DETECTION SUMMARY
+=====================
+Total Messages: 70
+Normal Messages: 40
+Anomalous Messages: 30
+Anomaly Percentage: 42.86%
+
+Anomaly Reasons:
+reason
+Unknown CAN ID; Known simulated attack ID; High-frequency CAN traffic    30

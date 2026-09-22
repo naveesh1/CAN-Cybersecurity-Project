@@ -1,0 +1,16 @@
+
+========================================
+CAN DETECTION PERFORMANCE
+========================================
+Total Messages       : 70
+True Positives       : 30
+True Negatives       : 40
+False Positives      : 0
+False Negatives      : 0
+
+Accuracy             : 100.00%
+Precision            : 100.00%
+Recall               : 100.00%
+F1-Score             : 100.00%
+Detection Rate       : 100.00%
+========================================
